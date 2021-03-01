@@ -1,2 +1,3 @@
-ls -am
+ls -amp
+
 
