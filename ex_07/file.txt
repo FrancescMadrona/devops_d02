@@ -1,0 +1,5 @@
+Hello, this is a test
+I love tests, they are cool.
+I'm doing a bootcamp
+Hello here doesnt' appear the pattern
+This is absurd phrases
